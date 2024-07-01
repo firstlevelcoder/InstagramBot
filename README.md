@@ -18,7 +18,7 @@ pip install wheel </br>
 <h1>Step 3: Install instagramBot</h1> </br>
 <h3></h3>This procedure is slow, use -vvv in pip if you want to see if everything installing alright</h3></br>
 
-git clone https://github.com/Danny-1201/instagramBot.git</br>
+git clone https://github.com/firstlevelcoder/InstagramBot.git</br>
 cd instagramBot </br>
 pip install -r requirements.txt </br>
 
